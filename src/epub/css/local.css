@@ -57,10 +57,6 @@ section > header [epub|type~="epigraph"] + *{
 }
 /* End epigraphs in section headers */
 
-cite > abbr[epub|type~="z3998:initialism"] {
-    font-style: italic;
-}
-
 /* hymns */
 [epub|type~="z3998:hymn"] p{
 	text-align: initial;
