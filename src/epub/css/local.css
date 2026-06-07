@@ -59,8 +59,8 @@ section > header [epub|type~="epigraph"]{
 /* end hymns */
 
 /* chapter 7 added emphasis */
-#chapter-7 b{
-	font-weight: bold;
+#chapter-7 > p:nth-of-type(14) > strong:nth-of-type(2){
+	text-transform: uppercase;
 }
 /* end added emphasis */
 
