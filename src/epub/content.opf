@@ -30,13 +30,12 @@
 		<dc:title id="title">The Way to God and How to Find It</dc:title>
 		<meta property="file-as" refines="#title">Way to God and How to Find It, The</meta>
 		<dc:subject id="subject-1">Sermons, American</dc:subject>
-		<meta property="authority" refines="#subject-1">LCHS</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85120263</meta>
 		<dc:subject id="subject-2">Evangelistic sermons</dc:subject>
-		<meta property="authority" refines="#subject-2">LCHS</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85045939</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<meta property="se:subject">Philosophy</meta>
 		<meta property="se:subject">Spirituality</meta>
 		<dc:description id="description">An evangelical preacher shares his theological framework.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
@@ -53,13 +52,14 @@
 		<dc:creator id="author">D. L. Moody</dc:creator>
 		<meta property="file-as" refines="#author">Moody, D. L.</meta>
 		<meta property="se:name.person.full-name" refines="#author">Dwight Lyman Moody</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/D._L._Moody</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Dwight_L._Moody</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50074083</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Childe Hassam</dc:contributor>
 		<meta property="file-as" refines="#artist">Hassam, Childe</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Frederick Childe Hassam</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Childe_Hassam</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79062708</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
