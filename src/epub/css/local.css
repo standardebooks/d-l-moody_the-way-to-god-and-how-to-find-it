@@ -19,7 +19,6 @@ footer{
 	-epub-hyphens: none;
 }
 
-#chapter-8 [epub|type~="epigraph"],
 [epub|type~="epigraph"] cite{
 	font-style: normal;
 	font-variant: small-caps;
@@ -64,3 +63,13 @@ section > header [epub|type~="epigraph"]{
 	font-weight: bold;
 }
 /* end added emphasis */
+
+/* bridgeheads */
+[epub|type~="se:bridgehead"]{
+	display: inline-block;
+	font-style: italic;
+	max-width: 60%;
+	text-align: justify;
+	text-indent: 0;
+}
+/* end bridgeheads */
