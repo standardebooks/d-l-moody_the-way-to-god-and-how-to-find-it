@@ -1,0 +1,1 @@
+Several scripture references had typos in the original scans and pointed to the wrong verse. These were off by either 1 or 10 from the correct chapter or verse. Since the quotations are verifiable and no assumptions were required, I corrected the citations.
